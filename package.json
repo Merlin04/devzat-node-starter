@@ -1,7 +1,6 @@
 {
-  "name": "devzat-hc-emoji",
+  "name": "devzat-node-starter",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "merlin04",
   "license": "MIT",
   "scripts": {
