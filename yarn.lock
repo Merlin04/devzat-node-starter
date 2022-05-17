@@ -151,10 +151,10 @@ data-uri-to-buffer@^4.0.0:
   resolved "https://registry.yarnpkg.com/data-uri-to-buffer/-/data-uri-to-buffer-4.0.0.tgz#b5db46aea50f6176428ac05b73be39a57701a64b"
   integrity sha512-Vr3mLBA8qWmcuschSLAOogKgQ/Jwxulv3RNE4FXnYWRGujzrRWQI4m12fQqRkwX06C0KanhLr4hK+GydchZsaA==
 
-devzat@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/devzat/-/devzat-0.2.1.tgz#40c7821ad879169531f77c6731fd161fb02484d2"
-  integrity sha512-GnFBp262VTYETTJII4CcZPsRG4ptbwadNZS5tMPbiZMlOKarvXlnEAWCwncVvJ0uUUVwt7pLSIeIKumk/zDWhg==
+devzat@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/devzat/-/devzat-0.2.2.tgz#f4017953eecc74287b22b382fe8abf3f27124895"
+  integrity sha512-CE2YLtjKNli8fkiJThgbfwnajE8ssjFabhY7Me4TCFtr6d2Tw/qZMhnIaL+V8fFWcqbVpBTVTT9nPLBIdrZ2zA==
   dependencies:
     "@grpc/grpc-js" "^1.6.2"
 
